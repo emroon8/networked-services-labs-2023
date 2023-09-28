@@ -1,0 +1,4 @@
+
+; <<>> DiG 9.10.6 <<>> emroon.projectst.si.umich.edu A +noall +answer
+;; global options: +cmd
+emroon.projectst.si.umich.edu. 1800 IN	A	141.211.185.70
