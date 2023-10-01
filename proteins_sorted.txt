@@ -1,0 +1,7 @@
+       9 data/proteins/methane.pdb
+      12 data/proteins/ethane.pdb
+      15 data/proteins/propane.pdb
+      20 data/proteins/cubane.pdb
+      21 data/proteins/pentane.pdb
+      30 data/proteins/octane.pdb
+     107 total
